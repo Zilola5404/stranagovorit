@@ -1,0 +1,53 @@
+
+# BEGIN WordPress
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+ 
+RewriteRule ^strana-panel/?$ /wp-login.php?a3127cd14b5c8737f7ab7a2f0fa402e9 [R,L]
+ 
+RewriteCond %{HTTP_COOKIE} !^.*wordpress_logged_in_.*$
+RewriteRule ^strana-panel/?$ /wp-login.php?a3127cd14b5c8737f7ab7a2f0fa402e9&amp;redirect_to=/wp-admin/ [R,L]
+ 
+RewriteRule ^strana-panel/?$ /wp-admin/?a3127cd14b5c8737f7ab7a2f0fa402e9 [R,L]
+ 
+RewriteCond %{SCRIPT_FILENAME} !^(.*)admin-ajax\.php
+RewriteCond %{HTTP_REFERER} !^(.*)stranagovorit.ru/wp-admin
+RewriteCond %{HTTP_REFERER} !^(.*)stranagovorit.ru/wp-login\.php
+RewriteCond %{HTTP_REFERER} !^(.*)stranagovorit.ru/strana-panel
+RewriteCond %{QUERY_STRING} !^a3127cd14b5c8737f7ab7a2f0fa402e9
+
+RewriteCond %{QUERY_STRING} !^action=logout
+RewriteCond %{QUERY_STRING} !^action=rp
+RewriteCond %{QUERY_STRING} !^action=postpass
+RewriteCond %{HTTP_COOKIE} !^.*wordpress_logged_in_.*$
+RewriteRule ^.*wp-admin/?|^.*wp-login\.php / [R,L]
+ 
+RewriteCond %{QUERY_STRING} ^loggedout=true
+RewriteRule ^.*$ /wp-login.php?a3127cd14b5c8737f7ab7a2f0fa402e9 [R,L]
+</IfModule>
+
+
+
+# Директивы (строки) между `BEGIN WordPress` и `END WordPress`
+# созданы автоматически и подлежат изменению только через фильтры WordPress.
+# Сделанные вручную изменения между этими маркерами будут перезаписаны.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+
+RewriteBase /
+RewriteRule ^myloginpage22$ wp-login.php
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+

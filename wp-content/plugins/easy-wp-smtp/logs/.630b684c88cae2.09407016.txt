@@ -1,0 +1,102 @@
+[08/28/2022 1:06:20 PM] - Easy WP SMTP debug log file
+
+[08/29/2022 10:43:18 PM] - Headers: , To: programmer.miss@gmail.com, Subject: [Платформа онлайн петиций] Плагины были обновлены автоматически
+[08/30/2022 10:38:57 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:19 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:23 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:24 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:24 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:24 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:25 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:25 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:25 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:25 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:25 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:25 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:25 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:26 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:26 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:26 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:26 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:51:26 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:53:34 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:53:53 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:58:13 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:58:21 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 10:59:28 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 11:03:15 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 11:03:46 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 11:04:09 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 11:07:11 AM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 11:25:36 AM] - Headers: Content-type: text/html; charset=utf-8, To: xomkaximik@gmail.com, Subject: Пройдите проверку на сайте
+[08/30/2022 11:59:04 AM] - Headers: Content-type: text/html; charset=utf-8, To: programmer.miss@gmail.com, Subject: Пройдите проверку на сайте
+[08/30/2022 12:08:48 PM] - Headers: Content-type: text/html; charset=utf-8, To: programmer.miss@gmail.com, Subject: Пройдите проверку на сайте
+[08/30/2022 12:17:14 PM] - Headers: Content-type: text/html; charset=utf-8, To: programmer.miss@gmail.com, Subject: Пройдите проверку на сайте
+[08/30/2022 12:21:45 PM] - Headers: Content-type: text/html; charset=utf-8, To: zilola.hb@yandex.ru, Subject: Пройдите проверку на сайте
+[08/30/2022 12:27:05 PM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 12:27:55 PM] - Headers: , To: programmer.miss@gmail.com, Subject: [Платформа онлайн петиций] Новая учетная запись пользователя
+[08/30/2022 12:27:56 PM] - Headers: , To: Zilola.hb@yandex.ru, Subject: Подтверждение email адреса
+[08/30/2022 12:35:50 PM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 12:36:40 PM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[08/30/2022 12:38:44 PM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Спасибо за Вашу подпись
+[08/30/2022 12:38:44 PM] - Headers: Content-type: text/html; charset=utf-8 | Array, To: , Subject: Президенту РФ В. В. Путину, Премьер-министру РФ М. В. Мишустину Председателю Совета Федерации ФС РФ В. И. Матвиенко Председателю Государственной Думы ФС РФ В. В. Володину Секретарю Совета Безопасности РФ Н. П. Патрушеву Российским политикам и государственным деятелям
+[08/30/2022 12:38:44 PM] - *** You must provide at least one recipient email address. ***
+[08/31/2022 4:41:17 AM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] Ваш сайт обновлён до WordPress 6.0.2
+[08/31/2022 8:23:01 AM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] На сайте возникли технические проблемы
+[09/01/2022 4:27:20 AM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] Плагины были обновлены автоматически
+[09/04/2022 11:01:57 AM] - Headers: Content-Type: text/plain, To: programmer.miss@gmail.com, Subject: Sucuri Alert, test.prograkf.beget.tech, Plugin Activated, 2.57.98.212
+[09/04/2022 11:05:31 AM] - Headers: Content-Type: text/plain, To: programmer.miss@gmail.com, Subject: Sucuri Alert, test.prograkf.beget.tech, Plugin Change, 2.57.98.212
+[09/12/2022 10:52:00 AM] - Headers: Content-type: text/html; charset=utf-8, To: programmer.miss@gmail.com, Subject: Спасибо за Вашу подпись
+[09/12/2022 10:52:00 AM] - 
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (stranagovorit.ru) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+[09/12/2022 10:52:32 AM] - Headers: Content-type: text/html; charset=utf-8, To: zilola_xb@mail.ru, Subject: Пройдите проверку на сайте
+[09/12/2022 10:52:32 AM] - 
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (stranagovorit.ru) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+[09/12/2022 3:30:09 PM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[09/12/2022 3:30:09 PM] - 
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (stranagovorit.ru) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
+[09/12/2022 3:38:27 PM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Пройдите проверку на сайте
+[09/12/2022 3:39:02 PM] - Headers: Content-type: text/html; charset=utf-8, To: support2@inicom.kz, Subject: Спасибо за Вашу подпись
+[09/12/2022 3:39:40 PM] - Headers: Content-type: text/html; charset=utf-8, To: xomkaximik@gmail.com, Subject: Спасибо за Вашу подпись
+[09/12/2022 3:43:03 PM] - Headers: Content-type: text/html; charset=utf-8, To: xomkaximik@gmail.com, Subject: Пройдите проверку на сайте
+[09/12/2022 3:43:50 PM] - Headers: Content-type: text/html; charset=utf-8, To: tuhvatulin_aleks@mail.ru, Subject: Пройдите проверку на сайте
+[09/15/2022 1:01:34 PM] - Headers: , To: your email, Subject: Письмо с сайта djhlf ghtcyj
+[09/15/2022 1:01:35 PM] - *** You must provide at least one recipient email address. ***
+[09/19/2022 5:23:04 PM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] На сайте возникли технические проблемы
+[10/17/2022 11:11:57 PM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] Доступен WordPress 6.0.3. Пожалуйста, обновитесь!
+[02/11/2023 12:10:48 AM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] Ваш сайт обновлён до WordPress 6.1.1
+[02/11/2023 10:24:53 AM] - Headers: Content-type: text/html; charset=utf-8, To: programmer.miss@gmail.com, Subject: Пройдите проверку на сайте
+[02/11/2023 10:28:14 AM] - Headers: Content-type: text/html; charset=utf-8, To: xomkaximik@gmail.com, Subject: Пройдите проверку на сайте
+[02/11/2023 9:00:46 PM] - Headers: Content-type: text/html; charset=utf-8, To: programmer.miss@gmail.com, Subject: Пройдите проверку на сайте
+[02/11/2023 9:00:56 PM] - Headers: Content-type: text/html; charset=utf-8, To: programmer.miss@gmail.com, Subject: Пройдите проверку на сайте
+[02/11/2023 9:53:01 PM] - Headers: Content-type: text/html; charset=utf-8, To: programmer.miss@gmail.com, Subject: Пройдите проверку на сайте
+[02/13/2023 9:39:08 AM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] Плагины были обновлены автоматически
+[02/15/2023 11:24:08 PM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] Плагины были обновлены автоматически
+[02/22/2023 9:46:46 PM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] Плагины были обновлены автоматически
+[03/07/2023 9:24:37 PM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] Плагины были обновлены автоматически
+[03/12/2023 6:35:13 PM] - Headers: Content-type: text/html; charset=utf-8, To: programmer.miss@gmail.com, Subject: Пройдите проверку на сайте
+[03/12/2023 6:47:47 PM] - Headers: , To: xomkaximik@gmail.com, Subject: Ваш аккаунт был удален
+[03/12/2023 6:47:47 PM] - *** SMTP Error: data not accepted. ***
+[03/12/2023 6:48:17 PM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] Новая учетная запись пользователя
+[03/12/2023 6:48:18 PM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] Регистрация нового пользователя
+[03/12/2023 6:48:18 PM] - Headers: , To: xomkaximik@gmail.com, Subject: [Страна говорит] Данные для входа на сайт
+[03/12/2023 6:48:46 PM] - Headers: , To: xomkaximik@gmail.com, Subject: [Страна говорит] Пароль изменён
+[03/12/2023 6:49:46 PM] - Headers: Content-type: text/html; charset=utf-8, To: xomkaximik@gmail.com, Subject: Пройдите проверку на сайте
+[03/12/2023 6:53:01 PM] - Headers: Content-type: text/html; charset=utf-8, To: programmer.miss@gmail.com, Subject: Пройдите проверку на сайте
+[03/12/2023 6:53:33 PM] - Headers: Content-type: text/html; charset=utf-8, To: programmer.miss@gmail.com, Subject: Пройдите проверку на сайте
+[03/12/2023 7:14:39 PM] - Headers: , To: xomkaximik@gmail.com, Subject: Письмо с сайта djhlf ghtcyj
+[03/12/2023 9:16:40 PM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] Плагины были обновлены автоматически
+[03/14/2023 7:46:14 AM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] На сайте возникли технические проблемы
+[03/14/2023 9:23:52 AM] - Headers: , To: programmer.miss@gmail.com, Subject: [Страна говорит] Плагины были обновлены автоматически
